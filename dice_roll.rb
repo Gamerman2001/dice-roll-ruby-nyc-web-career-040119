@@ -4,5 +4,5 @@
 
 def roll
   puts rand(1..6)
-  prying.rb
+  
 end
